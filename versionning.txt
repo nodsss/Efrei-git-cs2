@@ -1,0 +1,11 @@
+Partie 1 :
+
+ceci est la première phase de mon fichier.
+ceci est ma deuxième phrase.
+this is the sixth sentence inside my exemple.txt file.
+
+Partie 2 :
+
+ceci est la première phase de mon fichier.
+ceci est la deuxième phase de mon fichier.
+ceci est la troisième phase de mon fichier.
